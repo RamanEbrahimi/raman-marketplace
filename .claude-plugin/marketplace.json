@@ -1,0 +1,17 @@
+{
+  "name": "raman-marketplace",
+  "owner": {
+    "name": "Raman Ebrahimi"
+  },
+  "plugins": [
+    {
+      "name": "agentic-research",
+      "source": "./plugins/agentic-research",
+      "description": "A plugin for academic researchers to do literature review, ideation, proof-check, and revise their papers and ideas.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Raman Ebrahimi"
+      }
+    }
+  ]
+}
